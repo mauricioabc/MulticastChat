@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
 import com.chat.Manager.IntegrationService;
+import com.chat.Manager.Security;
 import com.chat.View.ReturnMessagePane;
 import java.io.IOException;
 import java.util.logging.Level;
@@ -19,6 +20,7 @@ public class Janela_Login extends javax.swing.JPanel {
    private InetAddress IPAddr;
    private int srvPort;
    private IntegrationService appService;
+   private Security sec;
    
     public Janela_Login() {
         initComponents();
@@ -38,6 +40,17 @@ public class Janela_Login extends javax.swing.JPanel {
             bt_Configs.setEnabled(true);
             ReturnMessagePane.informationPainel("O servidor está online.");
         }
+        sec = Security.getInstance();
+        sec.generateKeyPair();
+    }
+    
+    public void getChatData() throws IOException, InterruptedException{
+        if(tf_Group.getText().isEmpty()){
+            ReturnMessagePane.errorPainel("Informe o nome do grupo.");
+            return;
+        }
+        String groupName = tf_Group.getText();
+        appService.getChatData(username);
     }
     
     public boolean verificaCampos(){

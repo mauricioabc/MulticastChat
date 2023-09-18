@@ -1,0 +1,40 @@
+2023-09-17 22:01:33.994 | Security | INFO | Iniciando processo de criação/atualização do par de chaves de criptografia.
+2023-09-17 22:01:34.748 | GenerateKeys | INFO | Gerando um par de chaves pública e privada usando RSA.
+2023-09-17 22:01:34.768 | GenerateKeys | INFO | Retornando par de chaves gerado.
+2023-09-17 22:01:35.187 | Security | INFO | Finalizando processo de criação do par de chaves de criptografia.
+2023-09-17 22:01:55.228 | Security | INFO | Buscando PrivateKey na base de dados.
+2023-09-17 22:01:55.229 | Security | INFO | Retornando PrivateKey.
+2023-09-17 22:01:57.838 | Security | INFO | Buscando PublicKey na base de dados.
+2023-09-17 22:01:57.839 | Security | INFO | Retornando PublicKey.
+2023-09-17 22:09:52.455 | Security | INFO | Iniciando processo de criação/atualização do par de chaves de criptografia.
+2023-09-17 22:09:53.193 | GenerateKeys | INFO | Gerando um par de chaves pública e privada usando RSA.
+2023-09-17 22:09:53.215 | GenerateKeys | INFO | Retornando par de chaves gerado.
+2023-09-17 22:09:53.748 | Security | INFO | Finalizando processo de criação do par de chaves de criptografia.
+2023-09-17 22:09:53.749 | Security | INFO | Buscando PrivateKey na base de dados.
+2023-09-17 22:09:53.751 | Security | INFO | Retornando PrivateKey.
+2023-09-17 22:09:53.753 | Security | INFO | Buscando PublicKey na base de dados.
+2023-09-17 22:09:53.755 | Security | INFO | Retornando PublicKey.
+2023-09-17 22:14:32.882 | Security | INFO | Iniciando processo de criação/atualização do par de chaves de criptografia.
+2023-09-17 22:14:33.541 | GenerateKeys | INFO | Gerando um par de chaves pública e privada usando RSA.
+2023-09-17 22:14:33.566 | GenerateKeys | INFO | Retornando par de chaves gerado.
+2023-09-17 22:14:34.268 | Security | INFO | Finalizando processo de criação do par de chaves de criptografia.
+2023-09-17 22:14:34.269 | Security | INFO | Buscando PrivateKey na base de dados.
+2023-09-17 22:14:34.271 | Security | INFO | Retornando PrivateKey.
+2023-09-17 22:14:34.272 | Security | INFO | Buscando PublicKey na base de dados.
+2023-09-17 22:14:34.273 | Security | INFO | Retornando PublicKey.
+2023-09-17 22:15:38.614 | Security | INFO | Iniciando processo de criação/atualização do par de chaves de criptografia.
+2023-09-17 22:15:39.406 | GenerateKeys | INFO | Gerando um par de chaves pública e privada usando RSA.
+2023-09-17 22:15:39.430 | GenerateKeys | INFO | Retornando par de chaves gerado.
+2023-09-17 22:15:39.829 | Security | INFO | Finalizando processo de criação do par de chaves de criptografia.
+2023-09-17 22:15:39.830 | Security | INFO | Buscando PrivateKey na base de dados.
+2023-09-17 22:15:39.832 | Security | INFO | Retornando PrivateKey.
+2023-09-17 22:15:39.834 | Security | INFO | Buscando PublicKey na base de dados.
+2023-09-17 22:15:39.836 | Security | INFO | Retornando PublicKey.
+2023-09-17 22:17:32.309 | Security | INFO | Iniciando processo de criação/atualização do par de chaves de criptografia.
+2023-09-17 22:17:33.039 | GenerateKeys | INFO | Gerando um par de chaves pública e privada usando RSA.
+2023-09-17 22:17:33.066 | GenerateKeys | INFO | Retornando par de chaves gerado.
+2023-09-17 22:17:33.551 | Security | INFO | Finalizando processo de criação do par de chaves de criptografia.
+2023-09-17 22:17:33.552 | Security | INFO | Buscando PrivateKey na base de dados.
+2023-09-17 22:17:33.554 | Security | INFO | Retornando PrivateKey.
+2023-09-17 22:17:33.556 | Security | INFO | Buscando PublicKey na base de dados.
+2023-09-17 22:17:33.558 | Security | INFO | Retornando PublicKey.
